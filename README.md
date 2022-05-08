@@ -4,6 +4,7 @@ Simple elm app template
 
 ## Set up
 
+- `npm i -g elm elm-format elm-review`
 - `npm i`
 
 ## Run
