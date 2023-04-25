@@ -4,7 +4,7 @@ Simple elm app template
 
 ## Set up
 
-- `npm i -g elm elm-format elm-review`
+- Install Elm: https://guide.elm-lang.org/install/elm.html
 - `npm i`
 
 ## Run
